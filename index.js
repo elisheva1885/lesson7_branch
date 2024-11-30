@@ -1,1 +1,4 @@
-alert("main")
+
+const func = ()=> {
+    alert("main")
+}
