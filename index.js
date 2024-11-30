@@ -1,4 +1,9 @@
 
 const func = ()=> {
-    alert("bmain")
+    alert("main")
 }
+
+const func2 = ()=> {
+    console.log("main")
+}
+
