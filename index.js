@@ -1,9 +1,14 @@
 
 const func = ()=> {
-    alert("main")
+<<<<<<< HEAD
+    alert("main merge branch111")
 }
 
 const func2 = ()=> {
     console.log("main")
 }
 
+=======
+    alert("branch111")
+}
+>>>>>>> branch111
