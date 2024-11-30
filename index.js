@@ -1,10 +1,15 @@
 
 const func = ()=> {    
     alert("main merge branch111")
-}
+
+
+
+
+
+
 
 const func2 = ()=> {
-    console.log("main")
+    console.log("main merge branch222")
 }
 
 
